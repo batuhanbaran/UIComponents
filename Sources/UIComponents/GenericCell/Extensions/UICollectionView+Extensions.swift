@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  UICollectionView+Extensions.swift
 //  
 //
 //  Created by Batuhan Baran on 13.10.2022.
